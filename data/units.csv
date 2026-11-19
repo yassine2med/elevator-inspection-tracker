@@ -1,0 +1,7 @@
+unit,building,type,last_inspection,certificate_expires
+EL-01,Building A,Passenger,2026-03-10,2027-03-09
+EL-02,Building A,Passenger,2025-12-01,2026-11-30
+EL-03,Building B,Freight,2025-10-15,2026-10-14
+EL-04,Building B,Passenger,2026-01-20,2027-01-19
+EL-05,Building C,Escalator,2025-12-20,2026-12-19
+EL-06,Building C,Dumbwaiter,2026-06-02,2027-06-01
